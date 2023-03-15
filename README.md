@@ -1,6 +1,7 @@
-<h2> Hi, I'm German Soto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNiYjFjNzFkMTExOTA3ZDgzMmM3ZWRhYjI5OGI2ZDhkZTI0MzMwOSZjdD1z/WxmrQCX4VzOlplAgm7/giphy.gif" width="230">
-<p><em>Technic in Software developer at <a href="https://agenciadeaprendizaje.bue.edu.ar/">Agencia de Aprendizaje</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></br>Software Enginner at <a href="https://es.nttdata.com/">NTTDATA-Europe-LATAM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<h2> Hi, I'm German Soto!</h2>
+<img align='right' src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="230">
+<p><em>Technic in Software developer at <a href="https://agenciadeaprendizaje.bue.edu.ar/">Agencia de Aprendizaje</a>
+</br>Software Enginner at <a href="https://es.nttdata.com/">NTTDATA-Europe-LATAM</a><img 
 </em></p>
 
 [![Twitter: German Soto](https://img.shields.io/twitter/follow/CGermanSoto?style=social)](https://twitter.com/CGermanSoto)
@@ -26,7 +27,6 @@ public void presentation(String lenguage, String frameworks ) {
 }
 ```
 
-<img src="https://media.giphy.com/media/tZRAlE5aLS5BKDyjGI/giphy.gif" width="100" > 
-##### <b>• I am currently studying the</b> <em>oracle certification </em>
+<b>• I am currently studying the</b> <em>oracle certification </em>
 
 ---
