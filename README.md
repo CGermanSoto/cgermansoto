@@ -4,8 +4,6 @@
 </br>Software Enginner at <a href="https://es.nttdata.com/">NTTDATA-Europe-LATAM</a><img 
 </em></p>
 
-[![Twitter: German Soto](https://img.shields.io/twitter/follow/CGermanSoto?style=social)](https://twitter.com/CGermanSoto)
-
 [![Linkedin: German Soto](https://img.shields.io/badge/-CGermanSoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ger-developer/)](https://www.linkedin.com/in/ger-developer/)
 
 [![GitHub CGermanSoto](https://img.shields.io/github/followers/CGermanSoto?label=follow&style=social)](https://github.com/CGermanSoto)
