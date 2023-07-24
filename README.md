@@ -1,6 +1,6 @@
 <h2> Hi, I'm German Soto!</h2>
 
-</br>Software Enginner at <a href="https://es.nttdata.com/">NTTDATA-Europe-LATAM</a><img 
+</br>Software Enginner at <a href="https://es.nttdata.com/">NTTDATA-Europe-LATAM</a>
 </em></p>
 
 [![Linkedin: German Soto](https://img.shields.io/badge/-CGermanSoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ger-developer/)](https://www.linkedin.com/in/ger-developer/)
