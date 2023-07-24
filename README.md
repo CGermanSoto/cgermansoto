@@ -1,6 +1,5 @@
 <h2> Hi, I'm German Soto!</h2>
 
-<p><em>Technic in Software developer at <a href="https://agenciadeaprendizaje.bue.edu.ar/">Agencia de Aprendizaje</a>
 </br>Software Enginner at <a href="https://es.nttdata.com/">NTTDATA-Europe-LATAM</a><img 
 </em></p>
 
