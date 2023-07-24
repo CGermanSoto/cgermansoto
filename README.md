@@ -18,7 +18,7 @@ public void presentation(String lenguage, String frameworks ) {
 
     // Hobbies
     Other passion = new Other();
-    passion.setFutbol("San Lorenzo de Almagro, Argentina, Manchester City, Barcelona");
+    passion.setFutbol("San Lorenzo de Almagro, Argentina");
     passion.setPlay(" Chess: Aficionited");
               
 }
